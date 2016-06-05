@@ -1,0 +1,20 @@
+# (C) Корпорация Майкрософт (Microsoft Corp.), 1993-1999
+#
+# Этот файл содержит протоколы Интернета, определенные
+# в документе RFC 1700 (назначенные номера).
+#
+# Формат:
+#
+# <протокол>  <назначенный номер>  [псевдонимы...]   [#<комментарий>]
+
+ip       0     IP       # Internet protocol
+icmp     1     ICMP     # Internet control message protocol
+ggp      3     GGP      # Gateway-gateway protocol
+tcp      6     TCP      # Transmission control protocol
+egp      8     EGP      # Exterior gateway protocol
+pup      12    PUP      # PARC universal packet protocol
+udp      17    UDP      # User datagram protocol
+hmp      20    HMP      # Host monitoring protocol
+xns-idp  22    XNS-IDP  # Xerox NS IDP
+rdp      27    RDP      # "reliable datagram" protocol
+rvd      66    RVD      # MIT remote virtual disk
